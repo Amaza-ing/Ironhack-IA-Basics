@@ -16,7 +16,7 @@ In this section, you'll cover the following best practices when engineering prom
 
 🛑 Not recommended. The prompt below is unnecessarily verbose.
 
-prompt = "What do you think could be a good name for a flower shop that specializes in selling bouquets of dried flowers more than fresh flowers?"
+prompt = `What do you think could be a good name for a flower shop that specializes in selling bouquets of dried flowers more than fresh flowers?`
 
 ✅ Recommended. The prompt below is to the point and concise.
 
@@ -28,7 +28,7 @@ Suppose that you want to brainstorm creative ways to describe Earth.
 
 🛑 The prompt below might be a bit too generic (which is certainly OK if you'd like to ask a generic question!)
 
-prompt = "Tell me about Earth" 
+prompt = `Tell me about Earth`
 
 ✅ Recommended. The prompt below is specific and well-defined.
 
@@ -38,7 +38,7 @@ prompt = `Generate a list of ways that makes Earth unique compared to other plan
 
 🛑 Not recommended. The prompt below has two parts to the question that could be asked separately.
 
-prompt = "What's the best method of boiling water and why is the sky blue?" 
+prompt = `What's the best method of boiling water and why is the sky blue?`
 
 ✅ Recommended. The prompts below asks one task a time.
 
