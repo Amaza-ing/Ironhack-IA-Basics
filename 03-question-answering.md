@@ -156,7 +156,8 @@ Q: What has been analyzed to compare Amazon rainfall in the past and present?
 A: Sediment deposits.
 
 Q: What has the lower rainfall in the Amazon during the LGM been attributed to?
-A: 
+A:
+
 ```
 
 ### Evaluation
