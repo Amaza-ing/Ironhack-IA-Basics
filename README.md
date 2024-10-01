@@ -1,1 +1,0 @@
-# Ironhack-IA-Basics
